@@ -9,6 +9,12 @@ A colorful, animated web greeting to wish your crush a "Happy Holi" with firewor
 - **Interactivity:** Click the "Surprise" button to reveal a heartfelt message with dazzling effects.
 - **Responsive Design:** Works on desktop and mobile devices.
 
+## Demo Image
+![Happy Holi Greeting](./db/before.png)
+---
+
+![Happy Holi Greeting](./db/after.png)
+
 ## Demo
 
 Open `index.html` in a browser to see the greeting in action. Click the button to trigger the surprise!

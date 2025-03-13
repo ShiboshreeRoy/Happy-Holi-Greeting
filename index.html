@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Holi Greeting</title>
+    <link rel="stylesheet" href="./app/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <h1 id="greeting">Happy Holi!</h1>
+            <p id="message">Dear [Crush's Name], Wishing you a colorful and joyful Holi filled with love and happiness!</p>
+            <div class="color-splash"></div>
+            <button id="surpriseBtn">Click for a Surprise!</button>
+            <div id="surpriseMessage" class="hidden">You make my world as vibrant as Holi colors! ❤️</div>
+        </div>
+        <div class="particles"></div>
+        <div class="fireworks" id="fireworks"></div>
+    </div>
+    <!-- Audio Elements -->
+    <audio id="fireworkSound" src="https://www.soundjay.com/buttons/firework-01.mp3" preload="auto"></audio>
+<audio id="popSound" src="https://www.soundjay.com/buttons/pop-01.mp3" preload="auto"></audio>
+<audio id="dingSound" src="https://www.soundjay.com/buttons/ding-01.mp3" preload="auto"></audio>
+<audio id="backgroundMusic" src="./db/tmi.mp3" preload="auto" loop></audio>
+    <script src="./config/script.js"></script>
+</body>
+</html>

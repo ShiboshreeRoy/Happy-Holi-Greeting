@@ -11,9 +11,7 @@ A colorful, animated web greeting to wish your crush a "Happy Holi" with firewor
 
 ## Demo Image
 ![Happy Holi Greeting](./db/before.png)
----
-
-![Happy Holi Greeting](./db/after.png)
+![Holi Greeting](./db/after.png)
 
 ## Demo
 
